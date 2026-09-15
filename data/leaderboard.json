@@ -5,6 +5,7 @@
   "cycleMode": "monthly",
   "cycleStartDay": 1,
   "timezone": "Europe/London",
+  "fullUsernames": true,
   "prizePool": 250,
   "prizes": [
     100,
@@ -14,31 +15,45 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 250.78,
-  "playerCount": 3,
-  "cacheUpdatedAt": "2026-09-14 04:43:18",
-  "updatedAt": "2026-09-14T04:43:18.338Z",
+  "totalWagered": 276.97,
+  "playerCount": 5,
+  "cacheUpdatedAt": "2026-09-15 01:07:07",
+  "updatedAt": "2026-09-15T01:07:07.278Z",
   "entries": [
     {
       "rank": 1,
-      "masked": "da******29",
+      "masked": "danerk2929",
       "hash": "f6cd4c88c6ee0d99",
       "wagered": 242,
       "prize": 100
     },
     {
       "rank": 2,
-      "masked": "ly*****aa",
-      "hash": "01364473e0a3952c",
-      "wagered": 5,
+      "masked": "bobby678",
+      "hash": "afb2b8fa3d125cc3",
+      "wagered": 16.2,
       "prize": 60
     },
     {
       "rank": 3,
-      "masked": "Li*******ks",
+      "masked": "chinohotas",
+      "hash": "c30355f8f1df25e5",
+      "wagered": 10,
+      "prize": 40
+    },
+    {
+      "rank": 4,
+      "masked": "lyraaaaaa",
+      "hash": "01364473e0a3952c",
+      "wagered": 5,
+      "prize": 30
+    },
+    {
+      "rank": 5,
+      "masked": "LimboStacks",
       "hash": "33afe069e826c0d2",
       "wagered": 3.77,
-      "prize": 40
+      "prize": 20
     }
   ]
 }
