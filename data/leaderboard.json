@@ -15,10 +15,10 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 277.16,
+  "totalWagered": 277.65,
   "playerCount": 5,
-  "cacheUpdatedAt": "2026-09-17 01:00:51",
-  "updatedAt": "2026-09-17T01:00:51.752Z",
+  "cacheUpdatedAt": "2026-09-17 04:43:07",
+  "updatedAt": "2026-09-17T04:43:07.054Z",
   "entries": [
     {
       "rank": 1,
@@ -38,7 +38,7 @@
       "rank": 3,
       "masked": "chinohotas",
       "hash": "c30355f8f1df25e5",
-      "wagered": 10,
+      "wagered": 10.48,
       "prize": 40
     },
     {
