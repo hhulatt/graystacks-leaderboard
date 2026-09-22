@@ -15,10 +15,10 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 601.11,
-  "playerCount": 8,
-  "cacheUpdatedAt": "2026-09-21 04:43:30",
-  "updatedAt": "2026-09-21T04:43:30.855Z",
+  "totalWagered": 708.07,
+  "playerCount": 9,
+  "cacheUpdatedAt": "2026-09-22 01:23:14",
+  "updatedAt": "2026-09-22T01:23:14.134Z",
   "entries": [
     {
       "rank": 1,
@@ -31,46 +31,53 @@
       "rank": 2,
       "masked": "jimmy030",
       "hash": "f8163f7cda336ca2",
-      "wagered": 157.66,
+      "wagered": 157.88,
       "prize": 60
     },
     {
       "rank": 3,
-      "masked": "Ysfeliezer2",
-      "hash": "2f6acd6905580977",
-      "wagered": 101.47,
+      "masked": "Fastb092",
+      "hash": "90914e46ba64b4bd",
+      "wagered": 106.7,
       "prize": 40
     },
     {
       "rank": 4,
-      "masked": "Antogray9",
-      "hash": "9ace911ba808af54",
-      "wagered": 17.52,
+      "masked": "Ysfeliezer2",
+      "hash": "2f6acd6905580977",
+      "wagered": 101.52,
       "prize": 30
     },
     {
       "rank": 5,
-      "masked": "bobby678",
-      "hash": "afb2b8fa3d125cc3",
-      "wagered": 16.2,
+      "masked": "Antogray9",
+      "hash": "9ace911ba808af54",
+      "wagered": 17.52,
       "prize": 20
     },
     {
       "rank": 6,
+      "masked": "bobby678",
+      "hash": "afb2b8fa3d125cc3",
+      "wagered": 16.2,
+      "prize": 0
+    },
+    {
+      "rank": 7,
       "masked": "chinohotas",
       "hash": "c30355f8f1df25e5",
       "wagered": 10.48,
       "prize": 0
     },
     {
-      "rank": 7,
+      "rank": 8,
       "masked": "lyraaaaaa",
       "hash": "01364473e0a3952c",
       "wagered": 5,
       "prize": 0
     },
     {
-      "rank": 8,
+      "rank": 9,
       "masked": "LimboStacks",
       "hash": "33afe069e826c0d2",
       "wagered": 3.77,
