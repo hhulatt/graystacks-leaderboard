@@ -15,23 +15,23 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 1047.69,
+  "totalWagered": 1205.65,
   "playerCount": 11,
-  "cacheUpdatedAt": "2026-09-24 04:33:34",
-  "updatedAt": "2026-09-24T04:33:34.641Z",
+  "cacheUpdatedAt": "2026-09-25 01:05:24",
+  "updatedAt": "2026-09-25T01:05:24.490Z",
   "entries": [
     {
       "rank": 1,
       "masked": "Fastb092",
       "hash": "90914e46ba64b4bd",
-      "wagered": 376.42,
+      "wagered": 442.64,
       "prize": 100
     },
     {
       "rank": 2,
       "masked": "danerk2929",
       "hash": "f6cd4c88c6ee0d99",
-      "wagered": 289.01,
+      "wagered": 333.06,
       "prize": 60
     },
     {
@@ -50,51 +50,51 @@
     },
     {
       "rank": 5,
-      "masked": "stromfast",
-      "hash": "3a25160322f7f469",
-      "wagered": 39.84,
+      "masked": "GRAYSTACKS999",
+      "hash": "2fe30e3db0c9a097",
+      "wagered": 48.41,
       "prize": 20
     },
     {
       "rank": 6,
+      "masked": "stromfast",
+      "hash": "3a25160322f7f469",
+      "wagered": 39.84,
+      "prize": 0
+    },
+    {
+      "rank": 7,
       "masked": "Antogray9",
       "hash": "9ace911ba808af54",
       "wagered": 17.52,
       "prize": 0
     },
     {
-      "rank": 7,
+      "rank": 8,
       "masked": "bobby678",
       "hash": "afb2b8fa3d125cc3",
       "wagered": 16.2,
       "prize": 0
     },
     {
-      "rank": 8,
+      "rank": 9,
       "masked": "chinohotas",
       "hash": "c30355f8f1df25e5",
       "wagered": 10.48,
       "prize": 0
     },
     {
-      "rank": 9,
+      "rank": 10,
       "masked": "lyraaaaaa",
       "hash": "01364473e0a3952c",
       "wagered": 5,
       "prize": 0
     },
     {
-      "rank": 10,
+      "rank": 11,
       "masked": "LimboStacks",
       "hash": "33afe069e826c0d2",
       "wagered": 3.77,
-      "prize": 0
-    },
-    {
-      "rank": 11,
-      "masked": "GRAYSTACKS999",
-      "hash": "2fe30e3db0c9a097",
-      "wagered": 0.72,
       "prize": 0
     }
   ]
