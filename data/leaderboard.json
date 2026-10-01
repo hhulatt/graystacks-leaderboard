@@ -1,7 +1,7 @@
 {
-  "cycle": "2026-09-01",
-  "periodStart": "2026-09-01",
-  "periodEnd": "2026-09-30",
+  "cycle": "2026-10-01",
+  "periodStart": "2026-10-01",
+  "periodEnd": "2026-10-31",
   "cycleMode": "monthly",
   "cycleStartDay": 1,
   "timezone": "Europe/London",
@@ -15,87 +15,31 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 3817.21,
-  "playerCount": 11,
-  "cacheUpdatedAt": "2026-09-30 05:22:20",
-  "updatedAt": "2026-09-30T05:22:20.210Z",
+  "totalWagered": 3.54,
+  "playerCount": 3,
+  "cacheUpdatedAt": "2026-10-01 01:44:18",
+  "updatedAt": "2026-10-01T01:44:19.036Z",
   "entries": [
     {
       "rank": 1,
-      "masked": "stromfast",
-      "hash": "3a25160322f7f469",
-      "wagered": 1482.09,
+      "masked": "Fastb092",
+      "hash": "90914e46ba64b4bd",
+      "wagered": 1.9,
       "prize": 100
     },
     {
       "rank": 2,
       "masked": "Ysfeliezer2",
       "hash": "2f6acd6905580977",
-      "wagered": 1039.03,
+      "wagered": 1.59,
       "prize": 60
     },
     {
       "rank": 3,
-      "masked": "Fastb092",
-      "hash": "90914e46ba64b4bd",
-      "wagered": 674.1,
-      "prize": 40
-    },
-    {
-      "rank": 4,
-      "masked": "danerk2929",
-      "hash": "f6cd4c88c6ee0d99",
-      "wagered": 334.24,
-      "prize": 30
-    },
-    {
-      "rank": 5,
       "masked": "jimmy030",
       "hash": "f8163f7cda336ca2",
-      "wagered": 170.43,
-      "prize": 20
-    },
-    {
-      "rank": 6,
-      "masked": "GRAYSTACKS999",
-      "hash": "2fe30e3db0c9a097",
-      "wagered": 64.28,
-      "prize": 0
-    },
-    {
-      "rank": 7,
-      "masked": "Antogray9",
-      "hash": "9ace911ba808af54",
-      "wagered": 17.52,
-      "prize": 0
-    },
-    {
-      "rank": 8,
-      "masked": "bobby678",
-      "hash": "afb2b8fa3d125cc3",
-      "wagered": 16.26,
-      "prize": 0
-    },
-    {
-      "rank": 9,
-      "masked": "chinohotas",
-      "hash": "c30355f8f1df25e5",
-      "wagered": 10.48,
-      "prize": 0
-    },
-    {
-      "rank": 10,
-      "masked": "lyraaaaaa",
-      "hash": "01364473e0a3952c",
-      "wagered": 5,
-      "prize": 0
-    },
-    {
-      "rank": 11,
-      "masked": "LimboStacks",
-      "hash": "33afe069e826c0d2",
-      "wagered": 3.77,
-      "prize": 0
+      "wagered": 0.05,
+      "prize": 40
     }
   ]
 }
