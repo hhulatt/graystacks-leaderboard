@@ -15,10 +15,10 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 5009.55,
+  "totalWagered": 5023.11,
   "playerCount": 10,
-  "cacheUpdatedAt": "2026-10-10 02:00:59",
-  "updatedAt": "2026-10-10T02:00:59.324Z",
+  "cacheUpdatedAt": "2026-10-10 05:38:25",
+  "updatedAt": "2026-10-10T05:38:26.043Z",
   "entries": [
     {
       "rank": 1,
@@ -31,7 +31,7 @@
       "rank": 2,
       "masked": "lionstacks",
       "hash": "6a518aa5ea9ed516",
-      "wagered": 784.37,
+      "wagered": 797.93,
       "prize": 60
     },
     {
