@@ -15,10 +15,10 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 5050.35,
+  "totalWagered": 5051.97,
   "playerCount": 10,
-  "cacheUpdatedAt": "2026-10-12 05:44:25",
-  "updatedAt": "2026-10-12T05:44:26.004Z",
+  "cacheUpdatedAt": "2026-10-13 03:18:29",
+  "updatedAt": "2026-10-13T03:18:29.416Z",
   "entries": [
     {
       "rank": 1,
@@ -31,28 +31,28 @@
       "rank": 2,
       "masked": "lionstacks",
       "hash": "6a518aa5ea9ed516",
-      "wagered": 801.38,
+      "wagered": 801.91,
       "prize": 60
     },
     {
       "rank": 3,
       "masked": "Ysfeliezer2",
       "hash": "2f6acd6905580977",
-      "wagered": 754.88,
+      "wagered": 755.3,
       "prize": 40
     },
     {
       "rank": 4,
       "masked": "danerk2929",
       "hash": "f6cd4c88c6ee0d99",
-      "wagered": 632.15,
+      "wagered": 632.54,
       "prize": 30
     },
     {
       "rank": 5,
       "masked": "jimmy030",
       "hash": "f8163f7cda336ca2",
-      "wagered": 392.45,
+      "wagered": 392.73,
       "prize": 20
     },
     {
