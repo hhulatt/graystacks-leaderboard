@@ -15,10 +15,10 @@
     20
   ],
   "boardSize": 25,
-  "totalWagered": 118.56,
+  "totalWagered": 118.6,
   "playerCount": 4,
-  "cacheUpdatedAt": "2026-11-02 02:01:31",
-  "updatedAt": "2026-11-02T02:01:31.155Z",
+  "cacheUpdatedAt": "2026-11-02 05:48:04",
+  "updatedAt": "2026-11-02T05:48:04.584Z",
   "entries": [
     {
       "rank": 1,
@@ -31,7 +31,7 @@
       "rank": 2,
       "masked": "er********rs",
       "hash": "e512eb2e2831d98d",
-      "wagered": 31.75,
+      "wagered": 31.79,
       "prize": 60
     },
     {
